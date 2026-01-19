@@ -2,7 +2,7 @@ package org.example;
 
 import net.datafaker.Faker;
 
-public class TestStudent {
+ class TestStudent {
 
     private String name;
     private int age;
